@@ -17,3 +17,7 @@ Currently it lacks a lot of the core features Tailwind has but it will get uptad
 ## Point is
 
 I create bucf around my needs and update according to that. I hope it can grow to a point to replicate my own website :P 
+
+## If you are crazy enough
+
+Download the bucf.min.css file and simply link it. Soon i'll add a simple documantation.
