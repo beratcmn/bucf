@@ -3,7 +3,7 @@
 bucf is like Tailwind, but **less** feature rich.
 
 
-# Who tho?
+# Why tho?
 
 I'm trying to create a simple utility CSS Framework.  At some point it should cover all my basic CSS needs like Padding and Margins. I really need a basic handy tool.
 
