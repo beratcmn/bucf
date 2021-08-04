@@ -7,7 +7,7 @@ bucf is like Tailwind, but **less** feature rich.
 
 I'm trying to create a simple utility CSS Framework.  At some point it should cover all my basic CSS needs like Padding and Margins. I really need a basic handy tool.
 
-## Is is any good?
+## Is it any good?
 
 Simply, **no.**
 bucf at it's core very simple yet usefull in some situations. 
