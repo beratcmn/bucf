@@ -153,7 +153,7 @@
   margin: 24rem;
 }
 .m-100 {
-  margin: 24rem;
+  margin: 25rem;
 }
 .m-auto {
   margin: auto;
@@ -348,8 +348,8 @@
   margin-right: 24rem;
 }
 .mx-100 {
-  margin-left: 24rem;
-  margin-right: 24rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
 }
 .mx-auto {
   margin-left: auto;
@@ -545,8 +545,8 @@
   margin-bottom: 24rem;
 }
 .my-100 {
-  margin-top: 24rem;
-  margin-bottom: 24rem;
+  margin-top: 25rem;
+  margin-bottom: 25rem;
 }
 .my-auto {
   margin-top: auto;
@@ -695,7 +695,7 @@
   margin-top: 24rem;
 }
 .mt-100 {
-  margin-top: 24rem;
+  margin-top: 25rem;
 }
 .mt-auto {
   margin-top: auto;
@@ -843,7 +843,7 @@
   margin-bottom: 24rem;
 }
 .mb-100 {
-  margin-bottom: 24rem;
+  margin-bottom: 25rem;
 }
 .mb-auto {
   margin-bottom: auto;
@@ -991,7 +991,7 @@
   margin-right: 24rem;
 }
 .mr-100 {
-  margin-right: 24rem;
+  margin-right: 25rem;
 }
 .mr-auto {
   margin-right: auto;
@@ -1139,7 +1139,7 @@
   margin-left: 24rem;
 }
 .ml-100 {
-  margin-left: 24rem;
+  margin-left: 25rem;
 }
 .ml-auto {
   margin-left: auto;
@@ -1287,7 +1287,7 @@
   padding: 24rem;
 }
 .p-100 {
-  padding: 24rem;
+  padding: 25rem;
 }
 .p-auto {
   padding: auto;
@@ -1482,8 +1482,8 @@
   padding-right: 24rem;
 }
 .px-100 {
-  padding-left: 24rem;
-  padding-right: 24rem;
+  padding-left: 25rem;
+  padding-right: 25rem;
 }
 .px-auto {
   padding-left: auto;
@@ -1679,8 +1679,8 @@
   padding-bottom: 24rem;
 }
 .py-100 {
-  padding-top: 24rem;
-  padding-bottom: 24rem;
+  padding-top: 25rem;
+  padding-bottom: 25rem;
 }
 .py-auto {
   padding-top: auto;
@@ -1829,7 +1829,7 @@
   padding-top: 24rem;
 }
 .pt-100 {
-  padding-top: 24rem;
+  padding-top: 25rem;
 }
 .pt-auto {
   padding-top: auto;
@@ -1977,7 +1977,7 @@
   padding-bottom: 24rem;
 }
 .pb-100 {
-  padding-bottom: 24rem;
+  padding-bottom: 25rem;
 }
 .pb-auto {
   padding-bottom: auto;
@@ -2125,7 +2125,7 @@
   padding-right: 24rem;
 }
 .pr-100 {
-  padding-right: 24rem;
+  padding-right: 25rem;
 }
 .pr-auto {
   padding-right: auto;
@@ -2273,7 +2273,7 @@
   padding-left: 24rem;
 }
 .pl-100 {
-  padding-left: 24rem;
+  padding-left: 25rem;
 }
 .pl-auto {
   padding-left: auto;
@@ -2421,7 +2421,7 @@
   width: 24rem;
 }
 .w-100 {
-  width: 24rem;
+  width: 25rem;
 }
 .w-auto {
   margin: auto;
@@ -2659,7 +2659,7 @@
   height: 24rem;
 }
 .h-100 {
-  height: 24rem;
+  height: 25rem;
 }
 .h-auto {
   height: auto;
@@ -4236,7 +4236,7 @@
   gap: 24rem;
 }
 .gap-100 {
-  gap: 24rem;
+  gap: 25rem;
 }
 .gap-x-0 {
   column-gap: 0px;
@@ -4380,7 +4380,7 @@
   column-gap: 24rem;
 }
 .gap-x-100 {
-  column-gap: 24rem;
+  column-gap: 25rem;
 }
 .gap-y-0 {
   row-gap: 0px;
@@ -4524,7 +4524,7 @@
   row-gap: 24rem;
 }
 .gap-y-100 {
-  row-gap: 24rem;
+  row-gap: 25rem;
 }
 
 .justify-start {
